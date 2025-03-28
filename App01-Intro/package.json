@@ -1,0 +1,27 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicacion de escritorio multiplataforma Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvador-lis/Electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Node.js"
+  ],
+  "author": "Salvador Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salvador-lis/Electron/issues"
+  },
+  "homepage": "https://github.com/salvador-lis/Electron#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
